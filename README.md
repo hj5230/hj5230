@@ -7,4 +7,6 @@
     <img align="center" height="300" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hj5230&layout=compact&langs_count=16&theme=dracula"/>
 </div>
 
+<figure><embed src="https://wakatime.com/share/@018d21cd-2296-4c14-9357-c54c3fb3fdc6/96b513ce-0ce7-47ba-8964-aaff5b824761.svg"></embed></figure>
+
 ![Snake animation](https://github.com/eagrundy/eagrundy/blob/output/github-contribution-grid-snake.svg)
