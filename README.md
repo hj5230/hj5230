@@ -1,6 +1,6 @@
 <div align="center">
   <a href="https://github.com/hj5230">
-    <img src="https://readme-typing-svg.demolab.com?font=Ubuntu+Mono&pause=1000&random=false&width=435&separator=%3D&lines=System.out.println(%22Hello+World%22);%3Dcout+%3C%3C+%22Hello+World%22+%3C%3C+endl;%3Decho+%22Hello+World%22%3Dconsole.log(%22Hello+World%22)%3Dprintf(%22Hello+World%22);%3Ddisp('Hello+World');%3DprintIn(%22Hello+World%22)%3D%3Cspan%3EHello+World%3Cspan%3E" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Ubuntu+Mono&size=30&duration=4000&center=true&vCenter=true&random=true&width=600&height=100&separator=%3D&lines=System.out.println(%22Hello+World%22);%3Dcout+%3C%3C+%22Hello+World%22+%3C%3C+endl;%3Decho+%22Hello+World%22%3Dconsole.log(%22Hello+World%22)%3Dprintf(%22Hello+World%22);%3Ddisp('Hello+World');%3DprintIn(%22Hello+World%22)%3D%3Cspan%3EHello+World%3Cspan%3E%3Dprint('Hello+World')" alt="Typing SVG" />
   </a>
 </div>
 
