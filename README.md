@@ -2,7 +2,7 @@
 
 <div align="center">
     <a href="https://github.com/hj5230">
-    <img align="center" height="400" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hj5230&layout=compact&langs_count=16&theme=dracula"/>
+    <img align="center" height="300" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hj5230&layout=compact&langs_count=16&theme=dracula"/>
 </div>
 
 ![Snake animation](https://github.com/eagrundy/eagrundy/blob/output/github-contribution-grid-snake.svg)
