@@ -24,12 +24,9 @@
 </div> -->
 
 <!-- wakatime components -->
-<!-- <table>
-  <tr>
-    <td><img src="https://wakatime.com/share/@018d21cd-2296-4c14-9357-c54c3fb3fdc6/ff4ba4e7-9f32-49a0-a7ff-d73fed80ff2a.svg"></td>
-    <td><img src="https://wakatime.com/share/@018d21cd-2296-4c14-9357-c54c3fb3fdc6/a2da8121-4c30-4ff6-ba57-a6634c2c9813.svg"></td>
-  </tr>
-</table> -->
+<div align="center">
+<image src="https://wakatime.com/share/@018d21cd-2296-4c14-9357-c54c3fb3fdc6/24f72d34-331b-4d51-8950-2d277dc4fee3.svg" />
+</div>
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/hj5230/hj5230/output/github-contribution-grid-snake-dark.svg">
