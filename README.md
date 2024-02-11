@@ -23,14 +23,16 @@
   <img align="center" height="300" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hj5230&layout=compact&langs_count=16&theme=dracula"/>
 </div> -->
 
-<!-- wakatime components -->
-<div align="center">
-<image src="https://wakatime.com/share/@018d21cd-2296-4c14-9357-c54c3fb3fdc6/24f72d34-331b-4d51-8950-2d277dc4fee3.svg" />
-</div>
-
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/hj5230/hj5230/output/github-contribution-grid-snake-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/hj5230/hj5230/output/github-contribution-grid-snake.svg">
   <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/hj5230/hj5230/output/github-contribution-grid-snake.svg">
   </a>
 </picture>
+
+<!-- wakatime components -->
+<div style="max-width: 75%">
+<a src="https://github.com/hj5230">
+<image src="https://wakatime.com/share/@018d21cd-2296-4c14-9357-c54c3fb3fdc6/24f72d34-331b-4d51-8950-2d277dc4fee3.svg" />
+</a>
+</div>
