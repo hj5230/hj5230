@@ -31,8 +31,8 @@
 </picture>
 
 <!-- wakatime components -->
-<div style="max-width: 75%">
-<a src="https://github.com/hj5230">
+<div align="center" style="max-height: 300px">
+<a href="https://github.com/hj5230">
 <image src="https://wakatime.com/share/@018d21cd-2296-4c14-9357-c54c3fb3fdc6/24f72d34-331b-4d51-8950-2d277dc4fee3.svg" />
 </a>
 </div>
