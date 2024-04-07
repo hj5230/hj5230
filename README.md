@@ -33,6 +33,6 @@
 <!-- wakatime components -->
 <div align="center" style="max-height: 300px">
 <a href="https://github.com/hj5230">
-<image src="https://wakatime.com/share/@018d21cd-2296-4c14-9357-c54c3fb3fdc6/24f72d34-331b-4d51-8950-2d277dc4fee3.svg" />
+<image src="https://wakatime.com/share/@018d21cd-2296-4c14-9357-c54c3fb3fdc6/b2abd1d9-9ddf-4dc6-adf5-70954907efa4.svg" />
 </a>
 </div>
