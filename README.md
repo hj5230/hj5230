@@ -30,6 +30,11 @@
   </a>
 </picture>
 
+<br />
+<br />
+
+[![wakatime](https://wakatime.com/badge/user/018d21cd-2296-4c14-9357-c54c3fb3fdc6.svg)](https://wakatime.com/@018d21cd-2296-4c14-9357-c54c3fb3fdc6)
+
 <!-- wakatime components -->
 <div align="center" style="max-height: 300px">
 <a href="https://github.com/hj5230">
