@@ -1,10 +1,12 @@
+<!-- "Hello World" animation -->
 <div align="center">
   <a href="https://github.com/hj5230">
     <img src="https://readme-typing-svg.demolab.com?font=Ubuntu+Mono&size=30&duration=4000&center=true&vCenter=true&random=true&width=600&height=100&separator=%3D&lines=System.out.println(%22Hello+World%22);%3Dcout+%3C%3C+%22Hello+World%22+%3C%3C+endl;%3Decho+%22Hello+World%22%3Dconsole.log(%22Hello+World%22)%3Dprintf(%22Hello+World%22);%3Ddisp('Hello+World');%3DprintIn(%22Hello+World%22)%3D%3Cspan%3EHello+World%3Cspan%3E%3Dprint('Hello+World')%3Dfmt.Println(%22Hello+World%22)" alt="Typing SVG" />
   </a>
 </div>
 
-<div align="center">
+<!-- Tech stacks -->
+<!-- <div align="center">
   <img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="icon" width="65" style="width: 65px; height: 65px; margin-right: 0px; margin-bottom: 0px;" />
   <img src="https://techstack-generator.vercel.app/java-icon.svg" alt="icon" width="65" style="width: 65px; height: 65px; margin-right: 0px; margin-bottom: 0px;" />
   <img src="https://techstack-generator.vercel.app/cpp-icon.svg" alt="icon" width="65" style="width: 65px; height: 65px; margin-right: 0px; margin-bottom: 0px;" />
@@ -15,14 +17,9 @@
   <img src="https://techstack-generator.vercel.app/webpack-icon.svg" alt="icon" width="65" style="width: 65px; height: 65px; margin-right: 0px; margin-bottom: 0px;" />
   <img src="https://techstack-generator.vercel.app/eslint-icon.svg" alt="icon" width="65" style="width: 65px; height: 65px; margin-right: 0px; margin-bottom: 0px;" />
   <img src="https://techstack-generator.vercel.app/prettier-icon.svg" alt="icon" width="65" style="width: 65px; height: 65px; margin-right: 0px; margin-bottom: 0px;" />
-</div>
-
-<!-- langauge percentage -->
-<!-- <div align="center">
-  <a href="https://github.com/hj5230">
-  <img align="center" height="300" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hj5230&layout=compact&langs_count=16&theme=dracula"/>
 </div> -->
 
+<!-- Commits snake animation -->
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/hj5230/hj5230/output/github-contribution-grid-snake-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/hj5230/hj5230/output/github-contribution-grid-snake.svg">
